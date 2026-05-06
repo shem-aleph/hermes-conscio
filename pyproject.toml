@@ -1,0 +1,10 @@
+[project]
+name = "hermes-conscio"
+version = "1.1.0"
+description = "Cognitive overlay for AI agents — auditable consciousness as a service"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[project.urls]
+Homepage = "https://github.com/shem-aleph/hermes-conscio"
